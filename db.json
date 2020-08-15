@@ -3,6 +3,8 @@
         {
             "id" : 1,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 2,
             "mensagem_sis" : "CHECA_DEPOSITO",
             "mensagem_atm" : "NOVO_SALDO",
@@ -32,6 +34,8 @@
         {
             "id" : 2,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 2,
             "mensagem_sis" : "CHECA_DEPOSITO",
             "mensagem_atm" : "CONTANDO",
@@ -61,6 +65,8 @@
         {
             "id" : 3,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 3,
             "mensagem_sis" : "CHECA_DEPOSITO",
             "mensagem_atm" : "CONFIRMAR",
@@ -90,6 +96,8 @@
         {
             "id" : 4,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 4,
             "mensagem_sis" : "CANCELADO",
             "mensagem_atm" : "CANCELAMENTO_OK",
@@ -119,6 +127,8 @@
         {
             "id" : 6,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 3,
             "mensagem_sis" : "CONFIRMADO",
             "mensagem_atm" : "CONFIRMACAO_OK",
@@ -148,6 +158,8 @@
         {
             "id" : 7,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 7,
             "mensagem_sis" : "CHECA_DEPOSITO",
             "mensagem_atm" : "NOVO_SALDO",
@@ -177,6 +189,8 @@
         {
             "id" : 8,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 8,
             "mensagem_sis" : "CHECA_DEPOSITO",
             "mensagem_atm" : "NOVO_SALDO",
@@ -206,6 +220,8 @@
         {
             "id" : 9,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 9,
             "mensagem_sis" : "CHECA_DEPOSITO",
             "mensagem_atm" : "NOVO_SALDO",
@@ -235,6 +251,8 @@
         {
             "id" : 10,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 11,
             "mensagem_sis" : "CHECA_DEPOSITO",
             "mensagem_atm" : "SUPERVISOR",

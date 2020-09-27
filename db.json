@@ -2,7 +2,7 @@
     "checa_deposito" : [
         {
             "id" : 1,
-            "dep_parcial_adhoc_id" : 250,
+            "id_deposito" : 250,
             "numero_cofre" : 2020,
             "tipo_deposito" : "",
             "sequencia_atm" : 2,
@@ -33,7 +33,7 @@
         },
         {
             "id" : 2,
-            "dep_parcial_adhoc_id" : 250,
+            "id_deposito" : 250,
             "numero_cofre" : 2020,
             "tipo_deposito" : "",
             "sequencia_atm" : 2,
@@ -64,7 +64,7 @@
         },
         {
             "id" : 3,
-            "dep_parcial_adhoc_id" : 250,
+            "id_deposito" : 250,
             "numero_cofre" : 2020,
             "tipo_deposito" : "",
             "sequencia_atm" : 3,
@@ -95,7 +95,7 @@
         },
         {
             "id" : 4,
-            "dep_parcial_adhoc_id" : 250,
+            "id_deposito" : 250,
             "numero_cofre" : 2020,
             "tipo_deposito" : "",
             "sequencia_atm" : 4,
@@ -126,7 +126,7 @@
         },
         {
             "id" : 6,
-            "dep_parcial_adhoc_id" : 250,
+            "id_deposito" : 250,
             "numero_cofre" : 2020,
             "tipo_deposito" : "",
             "sequencia_atm" : 3,
@@ -157,7 +157,7 @@
         },
         {
             "id" : 7,
-            "dep_parcial_adhoc_id" : 250,
+            "id_deposito" : 250,
             "numero_cofre" : 2020,
             "tipo_deposito" : "",
             "sequencia_atm" : 7,
@@ -188,7 +188,7 @@
         },
         {
             "id" : 8,
-            "dep_parcial_adhoc_id" : 250,
+            "id_deposito" : 250,
             "numero_cofre" : 2020,
             "tipo_deposito" : "",
             "sequencia_atm" : 8,
@@ -219,7 +219,7 @@
         },
         {
             "id" : 9,
-            "dep_parcial_adhoc_id" : 250,
+            "id_deposito" : 250,
             "numero_cofre" : 2020,
             "tipo_deposito" : "",
             "sequencia_atm" : 9,
@@ -250,7 +250,7 @@
         },
         {
             "id" : 10,
-            "dep_parcial_adhoc_id" : 250,
+            "id_deposito" : 250,
             "numero_cofre" : 2020,
             "tipo_deposito" : "",
             "sequencia_atm" : 11,
